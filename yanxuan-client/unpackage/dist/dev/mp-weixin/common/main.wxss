@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*每个页面公共css */
+  
+  /* 引入iconfont图标（全局引入） */
+@font-face {
+  font-family: "iconfont"; /* Project id 4045812 */
+  src: url('//at.alicdn.com/t/c/font_4045812_wpo9pamxj3j.woff2?t=1682851218647') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4045812_wpo9pamxj3j.woff?t=1682851218647') format('woff'),
+       url('//at.alicdn.com/t/c/font_4045812_wpo9pamxj3j.ttf?t=1682851218647') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-xuanzhong:before {
+  content: "\e626";
+}
+.icon-sousuo:before {
+  content: "\e604";
+}
+
